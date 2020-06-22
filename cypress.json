@@ -1,0 +1,12 @@
+{
+"baseUrl": "https://damian-events.coursedog.com/",
+"ignoreTestFiles": "**/examples/*.spec.js",
+"testFiles": "**/*_test.js",
+"pageLoadTimeout": 30000,
+"chromeWebSecurity": false,
+"viewportWidth": 1920,
+"viewportHeight": 1080,
+"video": true,
+"videoUploadOnPasses": false,
+"videosFolder": "cypress/videos"
+}

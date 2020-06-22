@@ -1,0 +1,22 @@
+{
+  "name": "cypressautomation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zigis1/events.git"
+  },
+  "author": "Lukasz S",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zigis1/events/issues"
+  },
+  "homepage": "https://github.com/zigis1/events#readme",
+  "devDependencies": {
+    "cypress": "^4.8.0"
+  }
+}
